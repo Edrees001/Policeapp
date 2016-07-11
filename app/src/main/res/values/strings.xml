@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Police</string>
+    <string name="openCamera">Open Camera</string>
+    <string name="AddTittle">Add a tittle</string>
+    <string name="Description">Description</string>
+    <string name="feedbackbody">feedback</string>
+    <string name="recordvideo">Take video</string>
+</resources>
